@@ -1,0 +1,15 @@
+{
+  "name": "情報空間書き換え脳ドリル",
+  "short_name": "書き換えドリル",
+  "description": "苫米地の公開論文を1日5問で芯から腑に落とす、復習つきドリル",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FBF7EF",
+  "theme_color": "#B08A4E",
+  "lang": "ja",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
